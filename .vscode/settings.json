@@ -1,0 +1,11 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.showToolbar": "never",
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "terminal.integrated.suggest.inlineSuggestion": "off",
+    "intelliphp.inlineSuggestionsEnabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.cursorBlinking": "solid"
+}
